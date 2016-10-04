@@ -1,1 +1,0 @@
-a < spheres.txt > spheres.ppm
